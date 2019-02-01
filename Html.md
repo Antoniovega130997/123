@@ -6,15 +6,15 @@
 <h1> Servidores linux</h1>
 <p>
 
-asitencia 10
+asitencia 100
 <br>
-investigacion 15
+investigacion 0
 <br>
-presentacion 15
+presentacion 0
 <br>
-participacion 10 
+participacion 0 
 <br>
-examen 50 
+examen 0 
 </p>
 
 
